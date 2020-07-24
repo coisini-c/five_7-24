@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jap_tes_u.iml" filepath="$PROJECT_DIR$/jap_tes_u.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u_con/u_con.iml" filepath="$PROJECT_DIR$/u_con/u_con.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u_ek/u_ek.iml" filepath="$PROJECT_DIR$/u_ek/u_ek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u_entity/u_entity.iml" filepath="$PROJECT_DIR$/u_entity/u_entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u_pro/u_pro.iml" filepath="$PROJECT_DIR$/u_pro/u_pro.iml" />
+    </modules>
+  </component>
+</project>
